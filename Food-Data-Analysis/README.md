@@ -36,4 +36,4 @@ To help identify public health trends and encourage improvements in food safety 
 
 ---
 
-> 🔍 Created by **Akhil Kaushi**
+> 🔍 Created by **Akhil Kaushik**
